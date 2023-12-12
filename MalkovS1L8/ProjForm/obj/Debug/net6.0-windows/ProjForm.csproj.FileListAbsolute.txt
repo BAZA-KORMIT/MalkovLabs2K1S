@@ -1,0 +1,40 @@
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\ProjForm.exe
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\ProjForm.deps.json
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\ProjForm.runtimeconfig.json
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\ProjForm.dll
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\ProjForm.pdb
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\AlgosLab8.dll
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\bin\Debug\net6.0-windows\AlgosLab8.pdb
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.AssemblyReference.cache
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.Form1.resources
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.GenerateResource.cache
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.AssemblyInfoInputs.cache
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.AssemblyInfo.cs
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.CoreCompileInputs.cache
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.CopyComplete
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.dll
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\refint\ProjForm.dll
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.pdb
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ProjForm.genruntimeconfig.cache
+F:\visual studio\AlgosLab8\AlgosLab8\ProjForm\obj\Debug\net6.0-windows\ref\ProjForm.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\ProjForm.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\ProjForm.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\ProjForm.runtimeconfig.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\ProjForm.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\ProjForm.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\AlgosLab8.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\bin\Debug\net6.0-windows\AlgosLab8.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.AssemblyReference.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.Form1.resources
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.GenerateResource.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.csproj.CopyComplete
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\refint\ProjForm.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ProjForm.genruntimeconfig.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\ProjForm\obj\Debug\net6.0-windows\ref\ProjForm.dll
