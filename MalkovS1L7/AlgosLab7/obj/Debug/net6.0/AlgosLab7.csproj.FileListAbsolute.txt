@@ -1,0 +1,12 @@
+F:\visual studio\AlgosLab7\AlgosLab7\bin\Debug\net6.0\AlgosLab7.deps.json
+F:\visual studio\AlgosLab7\AlgosLab7\bin\Debug\net6.0\AlgosLab7.dll
+F:\visual studio\AlgosLab7\AlgosLab7\bin\Debug\net6.0\AlgosLab7.pdb
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.csproj.AssemblyReference.cache
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.AssemblyInfoInputs.cache
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.AssemblyInfo.cs
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.csproj.CoreCompileInputs.cache
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.dll
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\refint\AlgosLab7.dll
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\AlgosLab7.pdb
+F:\visual studio\AlgosLab7\AlgosLab7\obj\Debug\net6.0\ref\AlgosLab7.dll

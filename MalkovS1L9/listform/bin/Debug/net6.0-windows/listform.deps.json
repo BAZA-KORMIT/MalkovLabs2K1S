@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "listform/1.0.0": {
+        "dependencies": {
+          "lab9": "1.0.0"
+        },
+        "runtime": {
+          "listform.dll": {}
+        }
+      },
+      "lab9/1.0.0": {
+        "runtime": {
+          "lab9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

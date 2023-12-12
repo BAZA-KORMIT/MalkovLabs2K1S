@@ -1,0 +1,24 @@
+F:/visual studio/Algosslab3/stemmingLib/bin/Debug/net6.0/stemmingLib.deps.json
+F:/visual studio/Algosslab3/stemmingLib/bin/Debug/net6.0/stemmingLib.dll
+F:/visual studio/Algosslab3/stemmingLib/bin/Debug/net6.0/stemmingLib.pdb
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.csproj.AssemblyReference.cache
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.GeneratedMSBuildEditorConfig.editorconfig
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.AssemblyInfoInputs.cache
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.AssemblyInfo.cs
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.csproj.CoreCompileInputs.cache
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.dll
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/refint/stemmingLib.dll
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.pdb
+F:/visual studio/Algosslab3/stemmingLib/obj/Debug/net6.0/ref/stemmingLib.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/bin/Debug/net6.0/stemmingLib.deps.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/bin/Debug/net6.0/stemmingLib.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/bin/Debug/net6.0/stemmingLib.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.AssemblyInfo.cs
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/refint/stemmingLib.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/stemmingLib.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/obj/Debug/net6.0/ref/stemmingLib.dll

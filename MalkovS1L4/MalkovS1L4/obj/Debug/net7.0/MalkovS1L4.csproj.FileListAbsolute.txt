@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/bin/Debug/net7.0/MalkovS1L4
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/bin/Debug/net7.0/MalkovS1L4.deps.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/bin/Debug/net7.0/MalkovS1L4.runtimeconfig.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/bin/Debug/net7.0/MalkovS1L4.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/bin/Debug/net7.0/MalkovS1L4.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.AssemblyInfo.cs
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/refint/MalkovS1L4.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/MalkovS1L4.genruntimeconfig.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/MalkovS1L4/MalkovS1L4/obj/Debug/net7.0/ref/MalkovS1L4.dll

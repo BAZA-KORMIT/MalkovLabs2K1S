@@ -1,0 +1,5 @@
+F:\visual studio\AlgosLab9\AlgosLab9\obj\Debug\net6.0\AlgosLab9.csproj.AssemblyReference.cache
+F:\visual studio\AlgosLab9\AlgosLab9\obj\Debug\net6.0\AlgosLab9.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\AlgosLab9\AlgosLab9\obj\Debug\net6.0\AlgosLab9.AssemblyInfoInputs.cache
+F:\visual studio\AlgosLab9\AlgosLab9\obj\Debug\net6.0\AlgosLab9.AssemblyInfo.cs
+F:\visual studio\AlgosLab9\AlgosLab9\obj\Debug\net6.0\AlgosLab9.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+F:\visual studio\AlgosLab6\AlgosLab6\bin\Debug\net6.0\AlgosLab6.exe
+F:\visual studio\AlgosLab6\AlgosLab6\bin\Debug\net6.0\AlgosLab6.deps.json
+F:\visual studio\AlgosLab6\AlgosLab6\bin\Debug\net6.0\AlgosLab6.runtimeconfig.json
+F:\visual studio\AlgosLab6\AlgosLab6\bin\Debug\net6.0\AlgosLab6.dll
+F:\visual studio\AlgosLab6\AlgosLab6\bin\Debug\net6.0\AlgosLab6.pdb
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.csproj.AssemblyReference.cache
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.AssemblyInfoInputs.cache
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.AssemblyInfo.cs
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.csproj.CoreCompileInputs.cache
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.dll
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\refint\AlgosLab6.dll
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.pdb
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\AlgosLab6.genruntimeconfig.cache
+F:\visual studio\AlgosLab6\AlgosLab6\obj\Debug\net6.0\ref\AlgosLab6.dll

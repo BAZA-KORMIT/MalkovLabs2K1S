@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Porter2StemmerStandard/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Porter2StemmerStandard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Porter2StemmerStandard.dll": {}
+        }
+      },
+      "PorterStemmer/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Porter2StemmerStandard": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/PorterStemmer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/PorterStemmer.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "stemmingLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/stemmingLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/stemmingLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Porter2StemmerStandard/1.1.0": {
+      "sha512": "tOpFFEL6JzCzBrjWYABvX28fdtJ+x3RAV+3XHTjgmlyEDl2ItYEoTTz8oBaQxQABKPV5A8eHUeaRLGfzhL1DnQ==",
+      "type": "package",
+      "path": "porter2stemmerstandard/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Porter2StemmerStandard.dll",
+        "porter2stemmerstandard.1.1.0.nupkg.sha512",
+        "porter2stemmerstandard.nuspec"
+      ]
+    },
+    "PorterStemmer/1.0.0": {
+      "sha512": "JoknQo+NTVJhN+vbzs71wVsIDoKL9S/unO2z0fqS2Xs5RVeSsNgPN7halXv1KHsFarFo4r3VpAcbbS+G8cAHEA==",
+      "type": "package",
+      "path": "porterstemmer/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/PorterStemmer.dll",
+        "lib/netstandard2.0/PorterStemmer.xml",
+        "porterstemmer.1.0.0.nupkg.sha512",
+        "porterstemmer.nuspec"
+      ]
+    },
+    "stemmingLib/1.0.0": {
+      "type": "project",
+      "path": "../stemmingLib/stemmingLib.csproj",
+      "msbuildProject": "../stemmingLib/stemmingLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Porter2StemmerStandard >= 1.1.0",
+      "PorterStemmer >= 1.0.0",
+      "stemmingLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/vladislavkirillov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/Algosslab3/Algosslab3.csproj",
+      "projectName": "Algosslab3",
+      "projectPath": "/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/Algosslab3/Algosslab3.csproj",
+      "packagesPath": "/Users/vladislavkirillov/.nuget/packages/",
+      "outputPath": "/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/Algosslab3/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/vladislavkirillov/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/stemmingLib.csproj": {
+              "projectPath": "/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/Algosslab3/stemmingLib/stemmingLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Porter2StemmerStandard": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
+          "PorterStemmer": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

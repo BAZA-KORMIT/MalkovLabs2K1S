@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleL1&L2/1.0.0": {
+        "dependencies": {
+          "SparceArray": "1.0.0",
+          "SymmetricMatrix": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleL1&L2.dll": {}
+        }
+      },
+      "SparceArray/1.0.0": {
+        "runtime": {
+          "SparceArray.dll": {}
+        }
+      },
+      "SymmetricMatrix/1.0.0": {
+        "runtime": {
+          "SymmetricMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleL1&L2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SparceArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SymmetricMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

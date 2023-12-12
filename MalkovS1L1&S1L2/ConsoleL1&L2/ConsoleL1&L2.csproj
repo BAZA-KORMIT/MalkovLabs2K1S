@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ConsoleL1_L2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SparceArray\SparceArray.csproj" />
+    <ProjectReference Include="..\MalkovS1L1&amp;S1L2\SymmetricMatrix.csproj" />
+  </ItemGroup>
+</Project>

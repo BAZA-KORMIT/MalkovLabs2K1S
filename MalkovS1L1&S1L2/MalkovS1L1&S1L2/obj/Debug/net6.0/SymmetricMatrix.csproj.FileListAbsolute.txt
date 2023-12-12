@@ -1,0 +1,46 @@
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.deps.json
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.AssemblyInfoInputs.cache
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.AssemblyInfo.cs
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.csproj.CoreCompileInputs.cache
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/refint/SymmetricMatrix.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.pdb
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/ref/SymmetricMatrix.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.deps.json
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.AssemblyInfoInputs.cache
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.AssemblyInfo.cs
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.csproj.CoreCompileInputs.cache
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.sourcelink.json
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/refint/SymmetricMatrix.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.pdb
+D:/git/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/ref/SymmetricMatrix.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.deps.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.AssemblyInfo.cs
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/refint/SymmetricMatrix.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/SymmetricMatrix.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/MalkovS1L1&S1L2/obj/Debug/net6.0/ref/SymmetricMatrix.dll
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\bin\Debug\net6.0\SymmetricMatrix.deps.json
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\bin\Debug\net6.0\SymmetricMatrix.dll
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\bin\Debug\net6.0\SymmetricMatrix.pdb
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\SymmetricMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\SymmetricMatrix.AssemblyInfoInputs.cache
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\SymmetricMatrix.AssemblyInfo.cs
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\SymmetricMatrix.csproj.CoreCompileInputs.cache
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\SymmetricMatrix.dll
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\refint\SymmetricMatrix.dll
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\SymmetricMatrix.pdb
+D:\PROG\ТВГТУ\ПРОГРАММИРОВАНИЕ\МАЛЬКОВ\Malkov2K\AllLabs\MalkovS1L1&S1L2\MalkovS1L1&S1L2\obj\Debug\net6.0\ref\SymmetricMatrix.dll

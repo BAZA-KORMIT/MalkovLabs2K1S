@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgosLab7", "AlgosLab7\AlgosLab7.csproj", "{27184550-ED7D-47D6-B49C-2FA1D1E12289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QForm", "QForm\QForm.csproj", "{3ADC79EB-4155-4356-9D35-4167CF1DA720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27184550-ED7D-47D6-B49C-2FA1D1E12289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27184550-ED7D-47D6-B49C-2FA1D1E12289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27184550-ED7D-47D6-B49C-2FA1D1E12289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27184550-ED7D-47D6-B49C-2FA1D1E12289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADC79EB-4155-4356-9D35-4167CF1DA720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADC79EB-4155-4356-9D35-4167CF1DA720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADC79EB-4155-4356-9D35-4167CF1DA720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADC79EB-4155-4356-9D35-4167CF1DA720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04E52F8-BFAD-4D98-BCA7-B5E9D155B97F}
+	EndGlobalSection
+EndGlobal
