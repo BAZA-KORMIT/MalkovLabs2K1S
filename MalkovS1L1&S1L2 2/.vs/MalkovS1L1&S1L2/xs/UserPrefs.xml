@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E4280CD2-C9AB-40BB-92BB-CC26EA484FD4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleL1_226L2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SparceArray/SparceArr.cs">
+    <Files>
+      <File FileName="ConsoleL1&amp;L2/Program.cs" Line="48" Column="1" />
+      <File FileName="SparceArray/SparceArr.cs" Line="43" Column="53" />
+      <File FileName="MalkovS1L1&amp;S1L2/SymMatrix.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MalkovS1L1&amp;S1L2" expanded="True">
+            <Node name="SparceArray">
+              <Node name="SparceArr.cs" selected="True" />
+            </Node>
+            <Node name="SymmetricMatrix" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

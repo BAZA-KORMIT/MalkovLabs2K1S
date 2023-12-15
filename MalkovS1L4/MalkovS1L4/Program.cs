@@ -24,10 +24,10 @@ namespace P
                     Console.WriteLine($"Позиция искомого числа {BinSearch(s)}");
                     break;
                 case 3:
-                    Jumpsearch(s);
+                    Jumpsearch(s, Arr);
                     break;
                 case 4:
-                    InterpolationSearch(s);
+                    InterpolationSearch(s,Arr);
                     break;
                 case 5:
                     Console.WriteLine($"Позиция искомого числа {RecBinSearch(0, Arr.Length-1, s)}");
@@ -77,10 +77,8 @@ namespace P
             return "Числа нет!";
         }
         
-        static void InterpolationSearch(int[] M)
+        static void InterpolationSearch(int p,int[] M)
         {
-            Console.Write("Введите число для поиска: ");
-            int p = int.Parse(Console.ReadLine());
             int left = 0;
             int right = M.Length - 1;
 
@@ -104,10 +102,8 @@ namespace P
             }
             Console.WriteLine("Число не найдено");
         }
-        static void Jumpsearch(int[] M)
+        static void Jumpsearch(int p,int[] M)
         {
-            Console.Write("Введите число для поиска: ");
-            int p = int.Parse(Console.ReadLine());
             int len = M.Length;
             int jump = (int)Math.Sqrt(len);
             int left = 0; int right = 0;
