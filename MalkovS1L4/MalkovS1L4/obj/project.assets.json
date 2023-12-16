@@ -8,32 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nik\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/vladislavkirillov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\visual studio\\w\\Malkov2K\\MalkovS1L4\\MalkovS1L4\\MalkovS1L4.csproj",
+      "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4/MalkovS1L4/MalkovS1L4.csproj",
       "projectName": "MalkovS1L4",
-      "projectPath": "F:\\visual studio\\w\\Malkov2K\\MalkovS1L4\\MalkovS1L4\\MalkovS1L4.csproj",
-      "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "F:\\visual studio\\w\\Malkov2K\\MalkovS1L4\\MalkovS1L4\\obj\\",
+      "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4/MalkovS1L4/MalkovS1L4.csproj",
+      "packagesPath": "/Users/vladislavkirillov/.nuget/packages/",
+      "outputPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4/MalkovS1L4/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/vladislavkirillov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

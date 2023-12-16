@@ -1,0 +1,81 @@
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.exe
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.deps.json
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.runtimeconfig.json
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.pdb
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.pdb
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.AssemblyReference.cache
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfoInputs.cache
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfo.cs
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CoreCompileInputs.cache
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CopyComplete
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/refint/ConsoleL1&L2.dll
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.pdb
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.genruntimeconfig.cache
+C:/Users/МИСТЕР ПИВАСИК/Source/Repos/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ref/ConsoleL1&L2.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.exe
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.deps.json
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.runtimeconfig.json
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.pdb
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.pdb
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.AssemblyReference.cache
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.GeneratedMSBuildEditorConfig.editorconfig
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfoInputs.cache
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfo.cs
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CoreCompileInputs.cache
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.sourcelink.json
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CopyComplete
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/refint/ConsoleL1&L2.dll
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.pdb
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.genruntimeconfig.cache
+D:/git/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ref/ConsoleL1&L2.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.deps.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.runtimeconfig.json
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfo.cs
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CopyComplete
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/refint/ConsoleL1&L2.dll
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.pdb
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.genruntimeconfig.cache
+/Users/vladislavkirillov/Documents/2 курс ФИТ/Мальков/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ref/ConsoleL1&L2.dll
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.exe
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.deps.json
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.runtimeconfig.json
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.dll
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/ConsoleL1&L2.pdb
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.dll
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.dll
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SparceArray.pdb
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/bin/Debug/net6.0/SymmetricMatrix.pdb
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.AssemblyReference.cache
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.GeneratedMSBuildEditorConfig.editorconfig
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfoInputs.cache
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.AssemblyInfo.cs
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CoreCompileInputs.cache
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.csproj.CopyComplete
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.dll
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/refint/ConsoleL1&L2.dll
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.pdb
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ConsoleL1&L2.genruntimeconfig.cache
+D:/PROG/ТВГТУ/ПРОГРАММИРОВАНИЕ/МАЛЬКОВ/Malkov2K/AllLabs/MalkovS1L1&S1L2/ConsoleL1&L2/obj/Debug/net6.0/ref/ConsoleL1&L2.dll
