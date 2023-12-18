@@ -10,14 +10,3 @@ F:\visual studio\AlgosLab8\AlgosLab8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.dll
 F:\visual studio\AlgosLab8\AlgosLab8\AlgosLab8\obj\Debug\net6.0\refint\AlgosLab8.dll
 F:\visual studio\AlgosLab8\AlgosLab8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.pdb
 F:\visual studio\AlgosLab8\AlgosLab8\AlgosLab8\obj\Debug\net6.0\ref\AlgosLab8.dll
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\bin\Debug\net6.0\AlgosLab8.deps.json
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\bin\Debug\net6.0\AlgosLab8.dll
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\bin\Debug\net6.0\AlgosLab8.pdb
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.GeneratedMSBuildEditorConfig.editorconfig
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.AssemblyInfoInputs.cache
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.AssemblyInfo.cs
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.csproj.CoreCompileInputs.cache
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.dll
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\refint\AlgosLab8.dll
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\AlgosLab8.pdb
-D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ\MalkovS1L8\AlgosLab8\obj\Debug\net6.0\ref\AlgosLab8.dll

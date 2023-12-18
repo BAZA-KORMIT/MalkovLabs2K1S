@@ -1,4 +1,6 @@
-﻿namespace lab9
+﻿using System.Collections;
+
+namespace lab9
 {
     public class MyList<T>
     {
@@ -18,9 +20,10 @@
             this.elements = elements;
             this.index = index;
         }
+            
 
         public void Add(T item)
-        {
+        {   
             if (index == elements.Length)
             {
                 Array.Resize(ref elements, elements.Length * 2 + 1);

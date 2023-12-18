@@ -1,0 +1,15 @@
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\bin\Debug\net6.0\PriorityQ.exe
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\bin\Debug\net6.0\PriorityQ.deps.json
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\bin\Debug\net6.0\PriorityQ.runtimeconfig.json
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\bin\Debug\net6.0\PriorityQ.dll
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\bin\Debug\net6.0\PriorityQ.pdb
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.csproj.AssemblyReference.cache
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.AssemblyInfoInputs.cache
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.AssemblyInfo.cs
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.csproj.CoreCompileInputs.cache
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.dll
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\refint\PriorityQ.dll
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.pdb
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\PriorityQ.genruntimeconfig.cache
+F:\visual studio\w\Malkov2K\AllLabs\AlgosLab7\PriorityQ\obj\Debug\net6.0\ref\PriorityQ.dll

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listform", "listform\listform.csproj", "{81867078-C2F8-438C-9262-9EF55CF97774}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab9", "lab9\lab9.csproj", "{C41AE057-205C-49F1-AD1B-23C3BDB2CC68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab9", "lab9\lab9.csproj", "{C41AE057-205C-49F1-AD1B-23C3BDB2CC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{795A2F49-0356-4E07-9FEE-9CCEF645B80B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C41AE057-205C-49F1-AD1B-23C3BDB2CC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C41AE057-205C-49F1-AD1B-23C3BDB2CC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C41AE057-205C-49F1-AD1B-23C3BDB2CC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795A2F49-0356-4E07-9FEE-9CCEF645B80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795A2F49-0356-4E07-9FEE-9CCEF645B80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795A2F49-0356-4E07-9FEE-9CCEF645B80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795A2F49-0356-4E07-9FEE-9CCEF645B80B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

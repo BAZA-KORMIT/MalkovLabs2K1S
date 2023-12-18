@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\visual studio\\AlgosLab7\\QForm\\QForm.csproj",
+      "projectUniqueName": "F:\\visual studio\\w\\Malkov2K\\AllLabs\\AlgosLab7\\QForm\\QForm.csproj",
       "projectName": "QForm",
-      "projectPath": "F:\\visual studio\\AlgosLab7\\QForm\\QForm.csproj",
+      "projectPath": "F:\\visual studio\\w\\Malkov2K\\AllLabs\\AlgosLab7\\QForm\\QForm.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "F:\\visual studio\\AlgosLab7\\QForm\\obj\\",
+      "outputPath": "F:\\visual studio\\w\\Malkov2K\\AllLabs\\AlgosLab7\\QForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "F:\\visual studio\\AlgosLab7\\AlgosLab7\\AlgosLab7.csproj": {
-              "projectPath": "F:\\visual studio\\AlgosLab7\\AlgosLab7\\AlgosLab7.csproj"
+            "F:\\visual studio\\w\\Malkov2K\\AllLabs\\AlgosLab7\\AlgosLab7\\AlgosLab7.csproj": {
+              "projectPath": "F:\\visual studio\\w\\Malkov2K\\AllLabs\\AlgosLab7\\AlgosLab7\\AlgosLab7.csproj"
             }
           }
         }

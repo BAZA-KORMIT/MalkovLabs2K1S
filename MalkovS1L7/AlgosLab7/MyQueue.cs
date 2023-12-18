@@ -16,7 +16,7 @@ namespace AlgosLab7
         }
         public MyQueue():this(12)
         {
-
+            
         }
         public bool IsEmpty => _Count == 0;
         public bool IsFull => tail == _Size-1;
@@ -39,6 +39,7 @@ namespace AlgosLab7
                 tail = -1;
             }
             return value;
+           
         }
         public T Peek()
         {

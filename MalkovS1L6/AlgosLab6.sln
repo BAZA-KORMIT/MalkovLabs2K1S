@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgosLab6", "AlgosLab6\AlgosLab6.csproj", "{8740699B-0EF2-4712-AFEA-361E1499D291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackForm", "StackForm\StackForm.csproj", "{918E82AB-36D6-4846-88A3-72B76FE5CEB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackForm", "StackForm\StackForm.csproj", "{918E82AB-36D6-4846-88A3-72B76FE5CEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{04B9E3E7-B5A7-4A8F-A946-EA90E6CDBAE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{918E82AB-36D6-4846-88A3-72B76FE5CEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918E82AB-36D6-4846-88A3-72B76FE5CEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918E82AB-36D6-4846-88A3-72B76FE5CEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B9E3E7-B5A7-4A8F-A946-EA90E6CDBAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B9E3E7-B5A7-4A8F-A946-EA90E6CDBAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B9E3E7-B5A7-4A8F-A946-EA90E6CDBAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B9E3E7-B5A7-4A8F-A946-EA90E6CDBAE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
