@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AlgosLab6\AlgosLab6.csproj" />
+    <ProjectReference Include="..\AlgosLab6\AlgosLab6.csproj">
+      <ReferenceSourceTarget></ReferenceSourceTarget>
+    </ProjectReference>
   </ItemGroup>
 
 </Project>

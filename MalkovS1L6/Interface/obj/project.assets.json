@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Interface/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Interface.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Interface.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Interface/1.0.0": {
-      "type": "project",
-      "path": "../Interface/Interface.csproj",
-      "msbuildProject": "../Interface/Interface.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Interface >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/vladislavkirillov/.nuget/packages/": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/AlgosLab6/AlgosLab6.csproj",
-      "projectName": "AlgosLab6",
-      "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/AlgosLab6/AlgosLab6.csproj",
+      "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/Interface/Interface.csproj",
+      "projectName": "Interface",
+      "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/Interface/Interface.csproj",
       "packagesPath": "/Users/vladislavkirillov/.nuget/packages/",
-      "outputPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/AlgosLab6/obj/",
+      "outputPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/Interface/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladislavkirillov/.nuget/NuGet/NuGet.Config"
@@ -51,11 +32,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/Interface/Interface.csproj": {
-              "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L6/Interface/Interface.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

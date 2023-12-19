@@ -3,23 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Interface;
 
 namespace AlgosLab6
 {
-    public interface IMovement<T>
-    {
-
-        void Add(T data);
-        T Remove();
-        bool isEmpty();
-    }
+    
 
     public class Node<T>
     {
         public T Data { get; set; }
         public Node<T> Next { get; set; }
     }
-    public class MyStack2<T> : IMovement<T>
+    public class MyStack2<T> : IMove<T>
     {
         private Node<T> top;
 
@@ -71,6 +66,11 @@ namespace AlgosLab6
         }
 
         public bool isEmpty()=> top == null;
+
+        bool IMove<T>.IsEmpty()
+        {
+            return top == null;
+        }
 
         public bool IsEmpty => top == null;
     }

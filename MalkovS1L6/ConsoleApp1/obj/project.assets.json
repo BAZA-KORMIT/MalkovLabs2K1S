@@ -5,11 +5,24 @@
       "AlgosLab6/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/AlgosLab6.dll": {}
         },
         "runtime": {
           "bin/placeholder/AlgosLab6.dll": {}
+        }
+      },
+      "Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interface.dll": {}
         }
       }
     }
@@ -19,6 +32,11 @@
       "type": "project",
       "path": "../AlgosLab6/AlgosLab6.csproj",
       "msbuildProject": "../AlgosLab6/AlgosLab6.csproj"
+    },
+    "Interface/1.0.0": {
+      "type": "project",
+      "path": "../Interface/Interface.csproj",
+      "msbuildProject": "../Interface/Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
