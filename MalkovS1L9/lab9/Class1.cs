@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace lab9
 {
+    public interface IMovable<T>
+    {
+        void Add(T data);
+        bool Remove(T data);
+        bool isEmpty();
+    }
+
     public class Node<T>
     {
         public Node(T data)
@@ -16,7 +23,7 @@ namespace lab9
         public T Data { get; set; }
         public Node<T>? Next { get; set; }
     }
-    public class MyLinkedList<T> : IEnumerable<T>  // односвязный список
+    public class MyLinkedList<T> : IMovable<T> // односвязный список
     {
         Node<T>? head; // головной/первый элемент
         Node<T>? tail; // последний/хвостовой элемент
@@ -107,7 +114,7 @@ namespace lab9
             count++;
         }
 
-        IEnumerator<T> IEnumerable<T>.GetEnumerator()
+        /*IEnumerator<T> IEnumerable<T>.GetEnumerator()
         {
             Node<T>? current = head;
             while (current != null)
@@ -121,7 +128,9 @@ namespace lab9
         IEnumerator IEnumerable.GetEnumerator()
         {
             return ((IEnumerable<T>)this).GetEnumerator();
-        }
+        }*/
+
+        public bool isEmpty() => count == 0;
     }
     
 }

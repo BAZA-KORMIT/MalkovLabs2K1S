@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace AlgosLab7
 {
+
+    public interface IMovement<T>
+    {
+
+        void Add(T data);
+        T Remove();
+        bool isEmpty();
+    }
+
     public class Node<T>
     {
         public Node(T data)
@@ -16,13 +25,12 @@ namespace AlgosLab7
         public T Data { get; set; }
         public Node<T> Next { get; set; }
     }
-    public class MyQueue2<T> : IEnumerable<T>
+    public class MyQueue2<T> : IMovement<T>
     {
         Node<T> head; // головной/первый элемент
         Node<T> tail; // последний/хвостовой элемент
         int count;
-       
-        public void Enqueue(T data)
+        public void Add(T data)
         {
             Node<T> node = new Node<T>(data);
             Node<T> tempNode = tail;
@@ -34,7 +42,9 @@ namespace AlgosLab7
             count++;
         }
 
-        public T Dequeue()
+        public bool isEmpty() => count == 0;
+
+        public T Remove()
         {
             if (count == 0)
                 throw new InvalidOperationException();
@@ -43,6 +53,28 @@ namespace AlgosLab7
             count--;
             return output;
         }
+
+        /*public void Enqueue(T data)
+        {
+            Node<T> node = new Node<T>(data);
+            Node<T> tempNode = tail;
+            tail = node;
+            if (count == 0)
+                head = tail;
+            else
+                tempNode.Next = tail;
+            count++;
+        }*/
+
+        /*public T Dequeue()
+        {
+            if (count == 0)
+                throw new InvalidOperationException();
+            T output = head.Data;
+            head = head.Next;
+            count--;
+            return output;
+        }*/
 
         
         public int Count => count; 
@@ -65,7 +97,7 @@ namespace AlgosLab7
             }
             return false;
         }
-        IEnumerator IEnumerable.GetEnumerator()
+        /*IEnumerator IEnumerable.GetEnumerator()
         {
             return ((IEnumerable)this).GetEnumerator();
         }
@@ -77,6 +109,6 @@ namespace AlgosLab7
                 yield return current.Data;
                 current = current.Next;
             }
-        }
+        }*/
     }
 }
