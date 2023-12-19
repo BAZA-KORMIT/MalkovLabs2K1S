@@ -1,0 +1,12 @@
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/bin/Debug/net6.0/Malkov2KLab6-9.deps.json
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/bin/Debug/net6.0/Malkov2KLab6-9.dll
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/bin/Debug/net6.0/Malkov2KLab6-9.pdb
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.AssemblyInfo.cs
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.dll
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/refint/Malkov2KLab6-9.dll
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/Malkov2KLab6-9.pdb
+/Users/vladislavkirillov/Projects/Malkov2KLab6-9/Malkov2KLab6-9/obj/Debug/net6.0/ref/Malkov2KLab6-9.dll
