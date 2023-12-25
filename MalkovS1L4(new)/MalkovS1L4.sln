@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgosLab4", "AlgosLab4\AlgosLab4.csproj", "{E3528E1E-C8A5-442B-885E-10A367BD551F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MalkovLab4", "AlgosLab4\MalkovLab4.csproj", "{E3528E1E-C8A5-442B-885E-10A367BD551F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0A1CCC39-62AE-4CFF-9624-44C9C0C65679}"
 EndProject

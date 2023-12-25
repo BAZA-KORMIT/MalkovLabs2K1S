@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.Security.Cryptography;
 
-namespace Lab4
+namespace MalkovS1L4
 {
-    public class AlgLab4
+    public class MalkovLab4
     { 
         /// <summary>
         /// линейный поиск
@@ -15,7 +15,7 @@ namespace Lab4
             try
             {
                 bool flag = false;
-                Console.WriteLine("Введите число,которое хотите найти");
+                Console.Write("Введите число для поиска: ");
                 int p = int.Parse(Console.ReadLine());
                 for (int i = 0; i < M.Length; i++)
                 {
@@ -26,7 +26,7 @@ namespace Lab4
                     }
                 }
                 if (!flag)
-                    Console.WriteLine("число не найдено");
+                    Console.WriteLine("Числа нет =(");
             }
             catch (Exception)
             {
@@ -58,12 +58,12 @@ namespace Lab4
                         return;
                     }
                 }
-                Console.WriteLine("не нашли");
+                Console.WriteLine("Числа нет =(");
                 return;
             }
             catch (Exception)
             {
-                Console.WriteLine("Вводите числа!");
+                Console.WriteLine("Введено не число");
                 return;
             }
         }
@@ -71,7 +71,7 @@ namespace Lab4
         /// jumpsearch
         /// </summary>
         /// <param name="M"></param>
-        public static void Jumpsearch(int[] M)
+        public static void InterpolationSort(int[] M)
         {
             Console.Write("Введите число для поиска: ");
             int p = int.Parse(Console.ReadLine());
@@ -87,7 +87,7 @@ namespace Lab4
                 left += jump;
             }
             if (left >= len || M[left] > p)
-                Console.WriteLine("Число не найдено"); 
+                Console.WriteLine("Числа нет =("); 
             right = Math.Min(len - 1, right);
             int i = left;
             while (i <= right && M[i] <= p)
@@ -99,19 +99,13 @@ namespace Lab4
                 }
                 i += 1;
             }
-            Console.WriteLine("Число не найдено");
+            Console.WriteLine("Числа нет =(");
         }
-        /// <summary>
-        /// рекурентный алгоритм бинарноого поиска
-        /// </summary>
-        /// <param name="M">массив</param>
-        /// <param name="p">число,которое ищем</param>
-        /// <param name="left">начальный индекс</param>
-        /// <param name="right">конечный индекс</param>
+
         static void recBinarySearch(int[] M,int p,int left,int right)
         {
             if (left>right)
-                Console.WriteLine("Число не найдено");
+                Console.WriteLine("Числа нет =(");
             int mid = (left + right) / 2;
             if (left == mid || mid == right)
                 Console.WriteLine($"Число найдено по индексу {mid}");
@@ -149,7 +143,7 @@ namespace Lab4
                     right = mid - 1; 
                 }
             }
-            Console.WriteLine("Число не найдено"); 
+            Console.WriteLine("Числа нет =("); 
         }
         public static void JumpSearch(int[] M)
         {
@@ -168,7 +162,7 @@ namespace Lab4
                 left += jump;
             }
             if (left >= len || M[left] > p)
-                Console.WriteLine("Число не найдено");
+                Console.WriteLine("Числа нет =(");
             right = Math.Min(len - 1, right);
             int i = left;
             while (i <= right && M[i] <= p)
@@ -180,7 +174,7 @@ namespace Lab4
                 }
                 i += 1;
             }
-            Console.WriteLine("Число не найдено");
+            Console.WriteLine("Числа нет =(");
         }
         public static void Main()
         {
@@ -188,17 +182,17 @@ namespace Lab4
                 int n1, amin, amax;
             try
             {
-                Console.WriteLine("введите количество чисел ");
-                n1 = int.Parse(Console.ReadLine());
-                Console.WriteLine("Введите минимальный элемент массива");
+                Console.Write("введите количество чисел ");
+                n1 = int.Parse(Console.ReadLine()); 
+                Console.Write("\nВведите минимальный элемент массива: ");
                 amin = int.Parse(Console.ReadLine());
-                Console.WriteLine("Введите максимальный элемент массива");
+                Console.Write("\nВведите максимальный элемент массива: ");
                 amax = int.Parse(Console.ReadLine());
             
                 M = new int[n1];
                 if ((amin > amax || n1 <= 0))
                 {
-                    Console.WriteLine("Неверно введённые данные");
+                    Console.WriteLine("Ошибка ввода");
                 }
                 else
                 {
@@ -219,10 +213,10 @@ namespace Lab4
             }
             catch (Exception)
             {
-                Console.WriteLine("введено не число");
+                Console.WriteLine("Введено не число");
                 return;
             }
-            Console.WriteLine("\n1LinSearch\n2BinarySearch\n3JumpSearch\n4recBinarySearch\n5InterpolationSearch");
+            Console.WriteLine("\n1) LinSearch\n2) BinarySearch\n3) JumpSearch\n4) InterpolationSearch\n5) recBinarySearch");
                 Console.WriteLine("Введите n");
                 int n = int.Parse(Console.ReadLine());
             Stopwatch sw=new Stopwatch();
@@ -236,56 +230,43 @@ namespace Lab4
                     Console.WriteLine("Время: {0} мс",resulttime);
                     sw.Reset();
                     break;
-                    sw.Reset ();
                 case 2:
-                    
                     sw.Start();
                     BinarySearch(M);
                     sw.Stop();
                     var result = sw.ElapsedMilliseconds;
                     Console.WriteLine("Время: {0} мс", result);
-                    break;
                     sw.Reset();
+                    break;
                 case 3:
-                    Stopwatch swatch = new();
-                    swatch.Start();
-                    Jumpsearch(M);
-                    swatch.Stop();
-                    var time = swatch.ElapsedMilliseconds;
-                    Console.WriteLine("Время: {0} мс", time);
-                    break;
-                    sw.Reset();
-                case 4:
-                    Console.Write("Введите число для поиска: ");
-                    int p = int.Parse(Console.ReadLine());
-                    
                     sw.Start();
-                    recBinarySearch(M,p,0,M.Length-1);
+                    InterpolationSort(M);
                     sw.Stop();
-                    var restime = sw.ElapsedMilliseconds;
-                    Console.WriteLine("Время: {0} мс", restime);
-                    break;
+                    var time = sw.ElapsedMilliseconds;
+                    Console.WriteLine("Время: {0} мс", time);
                     sw.Reset();
-                case 5:
-                   
+                    break;
+                case 4:
                     sw.Start();
                     InterpolationSearch(M);
                     sw.Stop();
                     var res = sw.ElapsedMilliseconds;
                     Console.WriteLine("Время: {0} мс", res);
-                    break;
                     sw.Reset();
-                case 6:
+                    break;
+                case 5:
+                    Console.Write("Введите число для поиска: ");
+                    int p = int.Parse(Console.ReadLine());
                     sw.Start();
-                    Jumpsearch(M);
+                    recBinarySearch(M, p, 0, M.Length - 1);
                     sw.Stop();
-                    var result1 = sw.ElapsedMilliseconds;
-                    Console.WriteLine("Время: {0} мс", result1);
+                    var restime = sw.ElapsedMilliseconds;
+                    Console.WriteLine("Время: {0} мс", restime);
+                    sw.Reset();
                     break;
                 default:
                     Console.WriteLine("Введено не то число");
                     break;
-                    sw.Reset();
             }
         }
     }

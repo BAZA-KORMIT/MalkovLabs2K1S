@@ -4,9 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MalkovS1L4;
 
 
-namespace AlgossLab4
+namespace MalkovS1
 {
     internal class Class1
     {
@@ -17,10 +18,7 @@ namespace AlgossLab4
             for (int i = 0; i < n; i++)
             {
                 M[i] = i;
-                //M[i] = r.Next(2,100);
-                //Console.Write(" {0}", M[i]);
             }
-            //Array.Sort(M);
             return M;
         }
         public static void Main()
@@ -38,19 +36,19 @@ namespace AlgossLab4
                     case 1:
                         string timeres = "";
                         time.Start();
-                        Lab4.AlgLab4.Jumpsearch(M1);
+                        MalkovLab4.InterpolationSort(M1);
                         time.Stop();
                         timeres += $" 50000 чисел:{time.ElapsedMilliseconds}\n";
                         time.Restart();
-                        Lab4.AlgLab4.Jumpsearch(M2);
+                        MalkovLab4.InterpolationSort(M2);
                         time.Stop();
                         timeres += $" 100000 чисел:{time.ElapsedMilliseconds}\n";
                         time.Restart();
-                        Lab4.AlgLab4.Jumpsearch(M3);
+                        MalkovLab4.InterpolationSort(M3);
                         time.Stop();
                         timeres += $" 500000 чисел:{time.ElapsedMilliseconds}\n";
                         time.Restart();
-                        Lab4.AlgLab4.Jumpsearch(M4);
+                        MalkovLab4.InterpolationSort(M4);
                         time.Stop();
                         timeres += $" 1000000 чисел:{time.ElapsedMilliseconds}\n";
                         Console.WriteLine($"Время  (мс): \n{timeres}");
@@ -59,19 +57,19 @@ namespace AlgossLab4
                     case 2:
                         string timeres1 = "";
                         time.Start();
-                        Lab4.AlgLab4.JumpSearch(M1);
+                        MalkovLab4.InterpolationSort(M1);
                         time.Stop();
                         timeres1 += $" 50000 чисел:{time.ElapsedMilliseconds}\n";
                         time.Restart();
-                        Lab4.AlgLab4.JumpSearch(M2);
+                        MalkovLab4.InterpolationSort(M2);
                         time.Stop();
                         timeres1 += $" 100000 чисел:{time.ElapsedMilliseconds}\n";
                         time.Restart();
-                        Lab4.AlgLab4.JumpSearch(M3);
+                        MalkovLab4.InterpolationSort(M3);
                         time.Stop();
                         timeres1 += $" 500000 чисел:{time.ElapsedMilliseconds}\n";
                         time.Restart();
-                        Lab4.AlgLab4.JumpSearch(M4);
+                        MalkovLab4.InterpolationSort(M4);
                         time.Stop();
                         timeres1 += $" 1000000 чисел:{time.ElapsedMilliseconds}\n";
                         Console.WriteLine($"Время (мс): \n{timeres1}");

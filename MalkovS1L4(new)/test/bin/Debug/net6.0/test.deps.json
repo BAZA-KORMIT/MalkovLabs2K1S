@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v6.0": {
       "test/1.0.0": {
         "dependencies": {
-          "AlgosLab4": "1.0.0"
+          "MalkovLab4": "1.0.0"
         },
         "runtime": {
           "test.dll": {}
         }
       },
-      "AlgosLab4/1.0.0": {
+      "MalkovLab4/1.0.0": {
         "runtime": {
-          "AlgosLab4.dll": {}
+          "MalkovLab4.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AlgosLab4/1.0.0": {
+    "MalkovLab4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

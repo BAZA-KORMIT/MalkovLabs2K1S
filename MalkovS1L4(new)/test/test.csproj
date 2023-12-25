@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AlgosLab4\AlgosLab4.csproj" />
+    <ProjectReference Include="..\AlgosLab4\MalkovLab4.csproj" />
   </ItemGroup>
 
 </Project>

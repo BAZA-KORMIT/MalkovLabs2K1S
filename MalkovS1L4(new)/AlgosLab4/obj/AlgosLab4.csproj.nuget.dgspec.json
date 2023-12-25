@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "F:\\visual studio\\AlgosLab4\\AlgosLab4\\AlgosLab4.csproj": {}
+    "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/AlgosLab4.csproj": {}
   },
   "projects": {
-    "F:\\visual studio\\AlgosLab4\\AlgosLab4\\AlgosLab4.csproj": {
+    "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/AlgosLab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\visual studio\\AlgosLab4\\AlgosLab4\\AlgosLab4.csproj",
+        "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/AlgosLab4.csproj",
         "projectName": "AlgosLab4",
-        "projectPath": "F:\\visual studio\\AlgosLab4\\AlgosLab4\\AlgosLab4.csproj",
-        "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-        "outputPath": "F:\\visual studio\\AlgosLab4\\AlgosLab4\\obj\\",
+        "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/AlgosLab4.csproj",
+        "packagesPath": "/Users/vladislavkirillov/.nuget/packages/",
+        "outputPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vladislavkirillov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       }
     }

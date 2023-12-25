@@ -2,65 +2,58 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "AlgosLab4/1.0.0": {
+      "MalkovLab4/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/AlgosLab4.dll": {}
+          "bin/placeholder/MalkovLab4.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AlgosLab4.dll": {}
+          "bin/placeholder/MalkovLab4.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AlgosLab4/1.0.0": {
+    "MalkovLab4/1.0.0": {
       "type": "project",
-      "path": "../AlgosLab4/AlgosLab4.csproj",
-      "msbuildProject": "../AlgosLab4/AlgosLab4.csproj"
+      "path": "../AlgosLab4/MalkovLab4.csproj",
+      "msbuildProject": "../AlgosLab4/MalkovLab4.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AlgosLab4 >= 1.0.0"
+      "MalkovLab4 >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nik\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/vladislavkirillov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\visual studio\\AlgosLab4\\test\\test.csproj",
+      "projectUniqueName": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/test/test.csproj",
       "projectName": "test",
-      "projectPath": "F:\\visual studio\\AlgosLab4\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "F:\\visual studio\\AlgosLab4\\test\\obj\\",
+      "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/test/test.csproj",
+      "packagesPath": "/Users/vladislavkirillov/.nuget/packages/",
+      "outputPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/test/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/vladislavkirillov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\visual studio\\AlgosLab4\\AlgosLab4\\AlgosLab4.csproj": {
-              "projectPath": "F:\\visual studio\\AlgosLab4\\AlgosLab4\\AlgosLab4.csproj"
+            "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/MalkovLab4.csproj": {
+              "projectPath": "/Users/vladislavkirillov/Desktop/МАЛЬКОВ/2 КУРС/MalkovLabs2K1S/MalkovS1L4(new)/AlgosLab4/MalkovLab4.csproj"
             }
           }
         }
@@ -90,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }
